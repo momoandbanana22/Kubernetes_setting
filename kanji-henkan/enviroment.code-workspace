@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../google-chrome-install"
+		},
+		{
+			"path": "../caps-ctrl-change"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Kubernetes_setting"
+		},
+		{
+			"path": "../sshd"
+		}
+	],
+	"settings": {}
+}
